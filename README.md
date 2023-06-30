@@ -1,6 +1,6 @@
 > "Estoy aquí para desafiar los límites de la tecnología.".
 
-Soy apasionado por la comunicación, los datos y la tecnología. Me fascina resolver problemas y crear soluciones innovadoras. Me gusta aprender cosas nuevas, conocer nuevas tecnologías y personas. Siempre estoy en busca de oportunidades para ampliar mi conocimiento y mejorar mis habilidades en estas  áreas.
+Soy un apasionado por la comunicación, los datos y la tecnología. Me fascina resolver problemas y crear soluciones innovadoras. Me gusta aprender cosas nuevas, conocer nuevas tecnologías y personas. Siempre estoy en busca de oportunidades para ampliar mi conocimiento y mejorar mis habilidades en estas  áreas.
 
   ## 📩 Ponte En Contacto Conmigo :)
 -----
